@@ -24,6 +24,8 @@ The system uses an **Adaptive Feedback Active Noise Control (AFANC)** architectu
 
 The primary goal was to optimize this secondary path to achieve noise cancellation superior to high-end commercial headphones.
 
+<img width="437" height="267" alt="image"  src="https://github.com/user-attachments/assets/fa946518-24d8-4f64-8290-d385fa39bd3e" />
+
 ### II. Core Technical Innovations
 
 #### A. Secondary Path Optimization via Microphone Placement
@@ -33,6 +35,9 @@ The stability of the ANC system is tied to the adaptive filter `W(z)` correctly 
 * **Methodology:** Eight different microphone locations were tested on a KEMAR (Knowles electronics mannequin for acoustics research) to study the effect of the outer ear on the acoustic path.
 * **Optimal Location:** Position #8, near the external auditory meatus (ear canal entrance), was found to produce "the flattest frequency response with least number of dips and peaks."
 * **Validation:** The response at position #8 closely matched the response measured deep inside the KEMAR's ear canal, confirming that this placement optimizes noise reduction as perceived by a human listener.
+<img width="419" height="326" alt="image" src="https://github.com/user-attachments/assets/50493bcb-56fb-4b47-ad87-4860221ca64d" />
+<img width="395" height="301" alt="image" src="https://github.com/user-attachments/assets/5aa2c3a3-8758-4429-9447-dc59465c655c" />
+
 
 #### B. Secondary Path Modeling with Music Signals
 
@@ -75,6 +80,7 @@ The designed headphone was compared directly against a leading commercial ANC he
 #### C. Analysis of Comparative Results
 
 The data shows a "marked improvement in noise cancellation" for the designed headphone compared to the commercial model, especially at the most prominent low-frequency harmonics. The performance gaps at 116 Hz and 156 Hz for the 2200 rpm noise are particularly large.
+Prefer in the article for more pictures of the result.
 
 ### V. Conclusion
 
@@ -85,5 +91,12 @@ The research successfully demonstrates that meticulous system optimization—spe
 ## 🤔 My Thoughts & Reflections
 
 * How does this connect to my current ANC project?
+  
+  Knowing of the best position of the error microphone will enhance the project set-up, which may lead to better results.
 * What did I find surprising or disagree with?
+
+  Disagree: I found that the comparation results at Fig.8 and Fig.10 are not very positive.
+  <img width="876" height="332" alt="image" src="https://github.com/user-attachments/assets/9cf25002-cfba-406c-be9e-921c255cdcf4" />
+  They did attually well at the Frequency below 200Hz. But the commercial ANC headphone canceled the noise far better in the 200-500Hz range.
+
 * What questions do I have after reading this?
