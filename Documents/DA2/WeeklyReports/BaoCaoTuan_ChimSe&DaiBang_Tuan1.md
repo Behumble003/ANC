@@ -1,7 +1,8 @@
-#
- Mẫu Báo Cáo Tiến Độ Tuần – Đồ án môn học
+# Mẫu Báo Cáo Tiến Độ Tuần – Đồ án môn học
 **Tên nhóm:** Chim sẻ và đại bàng
+
 **MSSV các thành viên:** 22520076 , 22520123
+
 **Tuần báo cáo:** 01 (Từ ngày 10/9/2025 đến 20/09/2025)
 ---
 ## 1. Công việc đã thực hiện trong tuần
@@ -25,21 +26,12 @@ Instruction Set Extension ”
 - [ ] Việc 3: Tìm hiểu thêm về các giao thức kết nối ngoại vi: I^2C, UART,…
 ---
 ## 5. Phân công chi tiết theo thành viên
-Họ Tên
-Trần Quốc Bảo
-Trần Lê Anh
-Công Việc đã làm
-Nắm được cách thức ANC
-hoạt động
-Biết được cách triển khai
-mô hình DeepLearning
-trên FireSim
-Công việc tuần tới
-Đọc thêm về ANC để tìm
-hướng
-Đi thực tập, Tìm hiểu về
-cách kết hợp thiết kế với
-NVDLA
+
+| Họ tên | Công việc đã làm | Công việc tuần tới |
+|--------|------------------|--------------------|
+|Trần Quốc Bảo      | Nắm được cách thức ANC                 | Tìm hiểu về ANC sử dụng CNN         | Đọc thêm về ANC để tìm hướng
+|Trần Lê Anh        | Biết được cách triển khai mô hình DeepLearning trên FireSim                  | Đi thực tập, Tìm hiểu về                 |
+
 **Yêu cầu định dạng**
 - Nộp file theo định dạng **Markdown (.md)** hoặc **PDF**.
 - Đặt tên file: `BaoCaoTuan_<Nhom>_<Tuan>.md`
