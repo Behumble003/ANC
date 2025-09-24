@@ -1,7 +1,9 @@
 # Active Noise Control System for Headphone Applications
 
 **Author(s):** Sen M. Kuo, Woon-Seng Gan, Sohini Mitra
+
 **Source:** DOI:10.1109/TCST.2005.863667
+
 **Date Read:** 2025-09-24
 
 ---
